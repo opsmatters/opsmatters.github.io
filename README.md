@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to opsmatters
 
-You can use the [editor on GitHub](https://github.com/opsmatters/opsmatters.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+With opsmatters tools you can dramatically accelerate the implementation of operational tools, as well as improve their ease of maintenance.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## The Projects
 
-### Markdown
+### newrelic-api
+A Java client library for the New Relic Monitoring and Alerting REST APIs built using Jersey and Gson.
+The library implements over 110 operations across all of the available 35 New Relic services.
+It is primarily used by applications to automate the configuration of New Relic Monitoring, Alerting and Dashboards, but can also be used for extracting incident and metric data, executing Insights queries, and uploading plugin metrics.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+View the project on GitHub [here](https://github.com/opsmatters/newrelic-api)
+[![Build Status](https://travis-ci.org/opsmatters/newrelic-api.svg?branch=master)](https://travis-ci.org/opsmatters/newrelic-api)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-api/badge.svg?style=blue)](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-api)
+[![Javadocs](http://javadoc.io/badge/com.opsmatters/newrelic-api.svg)](http://javadoc.io/doc/com.opsmatters/newrelic-api)
 
-```markdown
-Syntax highlighted code block
+## License
 
-# Header 1
-## Header 2
-### Header 3
+The projects are licensed under the terms of the [Apache license 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
 
-- Bulleted
-- List
+## Contacts
 
-1. Numbered
-2. List
+For further information on opsmatters projects email: enquiries@opsmatters.com
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/opsmatters/opsmatters.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<sub>Copyright (c) 2018 opsmatters</sub>
