@@ -1,8 +1,6 @@
-# Welcome to opsmatters
+# The Projects
 
 With opsmatters tools you can dramatically accelerate the implementation of operational tools, as well as improve their ease of maintenance.
-
-**The Projects**
 
 ## New Relic API
 A Java client library for the New Relic Monitoring and Alerting REST APIs built using Jersey and Gson.
@@ -29,11 +27,11 @@ Project status and latest version:
 
 View the project on GitHub [here](https://github.com/opsmatters/newrelic-batch)
 
-## License
+# License
 
 The projects are licensed under the terms of the [Apache license 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
 
-## Contacts
+# Contact Us
 
 For further information on opsmatters projects email: enquiries@opsmatters.com
 
