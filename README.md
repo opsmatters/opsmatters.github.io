@@ -27,12 +27,34 @@ Project status and latest version:
 
 View the project on GitHub [here](https://github.com/opsmatters/newrelic-batch)
 
+## New Relic Command
+Java library that allows New Relic Monitoring and Alerting configuration operations to be executed from a command line.
+The library includes over 90 operations covering Alerts, Applications, Key Transactions, Deployments, Servers, Plugins, Monitors and Labels. 
+It provides a set of tools to simplify or automate the configuration of New Relic Monitoring and Alerting.
+
+Project status and latest version:  
+[![Build Status](https://travis-ci.org/opsmatters/newrelic-command.svg?branch=master)](https://travis-ci.org/opsmatters/newrelic-command)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-command/badge.svg?style=blue)](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-command)
+[![Javadocs](http://javadoc.io/badge/com.opsmatters/newrelic-command.svg)](http://javadoc.io/doc/com.opsmatters/newrelic-command)
+
+View the project on GitHub [here](https://github.com/opsmatters/newrelic-command)
+
+## OpsMatters Core
+Java library for the opsmatters suite including a data cache for New Relic Monitoring and Alerting, models, and reporting utilities.
+
+Project status and latest version:  
+[![Build Status](https://travis-ci.org/opsmatters/opsmatters-core.svg?branch=master)](https://travis-ci.org/opsmatters/opsmatters-core)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/opsmatters-core/badge.svg?style=blue)](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/opsmatters-core)
+[![Javadocs](http://javadoc.io/badge/com.opsmatters/opsmatters-core.svg)](http://javadoc.io/doc/com.opsmatters/opsmatters-core)
+
+View the project on GitHub [here](https://github.com/opsmatters/opsmatters-core)
+
 # License
 
 The projects are licensed under the terms of the [Apache license 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
 
 # Contact Us
 
-For further information on opsmatters projects email: enquiries@opsmatters.com
+For further information on opsmatters projects email: **enquiries@opsmatters.com**
 
 <sub>Copyright (c) 2018 opsmatters</sub>
