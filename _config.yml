@@ -5,7 +5,7 @@ plugins:
 name: opsmatters
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: Operational monitoring tools
+description: Open-source operational monitoring tools
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: Gerald Curley
