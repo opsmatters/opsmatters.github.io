@@ -12,7 +12,7 @@ It is primarily used by applications to automate the configuration of New Relic 
 
 View the project on GitHub [here](https://github.com/opsmatters/newrelic-api)
 
-Project status and latest version:  
+**Project status and latest version:**  
 [![Build Status](https://travis-ci.org/opsmatters/newrelic-api.svg?branch=master)](https://travis-ci.org/opsmatters/newrelic-api)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-api/badge.svg?style=blue)](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-api)
 [![Javadocs](http://javadoc.io/badge/com.opsmatters/newrelic-api.svg)](http://javadoc.io/doc/com.opsmatters/newrelic-api)  
@@ -25,7 +25,7 @@ It provides a set of tools to accelerate or automate the deployment of New Relic
 
 View the project on GitHub [here](https://github.com/opsmatters/newrelic-batch)
 
-Project status and latest version:  
+**Project status and latest version:**  
 [![Build Status](https://travis-ci.org/opsmatters/newrelic-batch.svg?branch=master)](https://travis-ci.org/opsmatters/newrelic-batch)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-batch/badge.svg?style=blue)](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-batch)
 [![Javadocs](http://javadoc.io/badge/com.opsmatters/newrelic-batch.svg)](http://javadoc.io/doc/com.opsmatters/newrelic-batch)
@@ -37,7 +37,7 @@ It provides a set of tools to simplify or automate the configuration of New Reli
 
 View the project on GitHub [here](https://github.com/opsmatters/newrelic-command)
 
-Project status and latest version:  
+**Project status and latest version:**  
 [![Build Status](https://travis-ci.org/opsmatters/newrelic-command.svg?branch=master)](https://travis-ci.org/opsmatters/newrelic-command)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-command/badge.svg?style=blue)](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-command)
 [![Javadocs](http://javadoc.io/badge/com.opsmatters/newrelic-command.svg)](http://javadoc.io/doc/com.opsmatters/newrelic-command)
@@ -47,7 +47,7 @@ Java library for the opsmatters suite including a data cache for New Relic Monit
 
 View the project on GitHub [here](https://github.com/opsmatters/opsmatters-core)
 
-Project status and latest version:  
+**Project status and latest version:**  
 [![Build Status](https://travis-ci.org/opsmatters/opsmatters-core.svg?branch=master)](https://travis-ci.org/opsmatters/opsmatters-core)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/opsmatters-core/badge.svg?style=blue)](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/opsmatters-core)
 [![Javadocs](http://javadoc.io/badge/com.opsmatters/opsmatters-core.svg)](http://javadoc.io/doc/com.opsmatters/opsmatters-core)
@@ -59,5 +59,6 @@ The projects are licensed under the terms of the [Apache license 2.0](https://ww
 # Contact Us
 
 For further information on opsmatters projects email: **enquiries@opsmatters.com**
+For further information on opsmatters projects email: [enquiries@opsmatters.com](mailto:enquiries@opsmatters.com)
 
 <sub>Copyright (c) 2018 opsmatters</sub>
