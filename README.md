@@ -3,7 +3,7 @@
 The aim of the opsmatters toolset is to dramatically accelerate the implementation of operational monitoring and alerting tools (such as [New Relic](http://newrelic.com)) by:
 - Automating the deployment of configuration items such as Alerts and Dashboards
 - Deploying changes quickly and easily using bulk import and export tools
-- Using artefacts in standard formats that are easier to understand by users and can be version-controlled.
+- Using artefacts in standard formats that are easier to understand and maintain by users and can be version-controlled.
 
 ## New Relic API
 A Java client library for the New Relic Monitoring and Alerting REST APIs built using Jersey and Gson.
