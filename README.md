@@ -58,7 +58,6 @@ The projects are licensed under the terms of the [Apache license 2.0](https://ww
 
 # Contact Us
 
-For further information on opsmatters projects email: **enquiries@opsmatters.com**
 For further information on opsmatters projects email: [enquiries@opsmatters.com](mailto:enquiries@opsmatters.com)
 
 <sub>Copyright (c) 2018 opsmatters</sub>
