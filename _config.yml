@@ -13,6 +13,9 @@ author: Gerald Curley
 # Your email if you want it to be linked on the contact page
 author_email: gerald@opsmatters.com
 
+# Email for questions and feedback
+enquiries_email: enquiries@opsmatters.com
+
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
 category_dir: /
