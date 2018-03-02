@@ -15,7 +15,7 @@ Project status and latest version:
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-api/badge.svg?style=blue)](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-api)
 [![Javadocs](http://javadoc.io/badge/com.opsmatters/newrelic-api.svg)](http://javadoc.io/doc/com.opsmatters/newrelic-api)  
 
-View the project on [GitHub](https://github.com/opsmatters/newrelic-api)  
+View the project on [GitHub](https://github.com/opsmatters/newrelic-api) [README](https://github.com/opsmatters/newrelic-api/blob/master/README.md) [How to use](https://github.com/opsmatters/newrelic-api/blob/master/src/main/java/com/opsmatters/newrelic/api/README.md)  
 Download source code [.zip file](https://github.com/opsmatters/newrelic-api/zipball/master) [.tar.gz file](https://github.com/opsmatters/newrelic-api/tarball/master)
 
 ## New Relic Batch
@@ -29,7 +29,7 @@ Project status and latest version:
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-batch/badge.svg?style=blue)](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-batch)
 [![Javadocs](http://javadoc.io/badge/com.opsmatters/newrelic-batch.svg)](http://javadoc.io/doc/com.opsmatters/newrelic-batch)
 
-View the project on [GitHub](https://github.com/opsmatters/newrelic-batch)  
+View the project on [GitHub](https://github.com/opsmatters/newrelic-batch) [README](https://github.com/opsmatters/newrelic-batch/blob/master/README.md)  
 Download source code [.zip file](https://github.com/opsmatters/newrelic-batch/zipball/master) [.tar.gz file](https://github.com/opsmatters/newrelic-batch/tarball/master)
 
 ## New Relic Command
@@ -42,7 +42,7 @@ Project status and latest version:
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-command/badge.svg?style=blue)](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-command)
 [![Javadocs](http://javadoc.io/badge/com.opsmatters/newrelic-command.svg)](http://javadoc.io/doc/com.opsmatters/newrelic-command)
 
-View the project on [GitHub](https://github.com/opsmatters/newrelic-command)  
+View the project on [GitHub](https://github.com/opsmatters/newrelic-command) [README](https://github.com/opsmatters/newrelic-command/blob/master/README.md)  
 Download source code [.zip file](https://github.com/opsmatters/newrelic-command/zipball/master) [.tar.gz file](https://github.com/opsmatters/newrelic-command/tarball/master)
 
 ## OpsMatters Core
@@ -53,7 +53,7 @@ Project status and latest version:
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/opsmatters-core/badge.svg?style=blue)](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/opsmatters-core)
 [![Javadocs](http://javadoc.io/badge/com.opsmatters/opsmatters-core.svg)](http://javadoc.io/doc/com.opsmatters/opsmatters-core)
 
-View the project on [GitHub](https://github.com/opsmatters/opsmatters-core)  
+View the project on [GitHub](https://github.com/opsmatters/opsmatters-core) [README](https://github.com/opsmatters/opsmatters-core/blob/master/README.md)  
 Download source code [.zip file](https://github.com/opsmatters/opsmatters-core/zipball/master) [.tar.gz file](https://github.com/opsmatters/opsmatters-core/tarball/master)
 
 # License
