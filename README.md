@@ -16,8 +16,8 @@ Project status and latest version:
 [![Javadocs](http://javadoc.io/badge/com.opsmatters/newrelic-api.svg)](http://javadoc.io/doc/com.opsmatters/newrelic-api)  
 
 View the project on [GitHub](https://github.com/opsmatters/newrelic-api)  
-Documentation: [[README](https://github.com/opsmatters/newrelic-api/blob/master/README.md)] [[How to use](https://github.com/opsmatters/newrelic-api/blob/master/src/main/java/com/opsmatters/newrelic/api/README.md)]  
 Download source code as [.zip file](https://github.com/opsmatters/newrelic-api/zipball/master) [.tar.gz file](https://github.com/opsmatters/newrelic-api/tarball/master)
+Documentation: [[README](https://github.com/opsmatters/newrelic-api/blob/master/README.md)] [[How to use](https://github.com/opsmatters/newrelic-api/blob/master/src/main/java/com/opsmatters/newrelic/api/README.md)]  
 
 ## New Relic Batch
 Java library that allows New Relic objects to be created automatically from file based definitions.
@@ -31,8 +31,8 @@ Project status and latest version:
 [![Javadocs](http://javadoc.io/badge/com.opsmatters/newrelic-batch.svg)](http://javadoc.io/doc/com.opsmatters/newrelic-batch)
 
 View the project on [GitHub](https://github.com/opsmatters/newrelic-batch)  
-Documentation: [README](https://github.com/opsmatters/newrelic-batch/blob/master/README.md)  
 Download source code as [.zip file](https://github.com/opsmatters/newrelic-batch/zipball/master) [.tar.gz file](https://github.com/opsmatters/newrelic-batch/tarball/master)
+Documentation: [README](https://github.com/opsmatters/newrelic-batch/blob/master/README.md)  
 
 ## New Relic Command
 Java library that allows New Relic Monitoring and Alerting configuration operations to be executed from a command line.
@@ -45,8 +45,8 @@ Project status and latest version:
 [![Javadocs](http://javadoc.io/badge/com.opsmatters/newrelic-command.svg)](http://javadoc.io/doc/com.opsmatters/newrelic-command)
 
 View the project on [GitHub](https://github.com/opsmatters/newrelic-command)  
-Documentation: [README](https://github.com/opsmatters/newrelic-command/blob/master/README.md)  
 Download source code as [.zip file](https://github.com/opsmatters/newrelic-command/zipball/master) [.tar.gz file](https://github.com/opsmatters/newrelic-command/tarball/master)
+Documentation: [README](https://github.com/opsmatters/newrelic-command/blob/master/README.md)  
 
 ## OpsMatters Core
 Java library for the opsmatters suite including a data cache for New Relic Monitoring and Alerting, models, and reporting utilities.
@@ -57,8 +57,8 @@ Project status and latest version:
 [![Javadocs](http://javadoc.io/badge/com.opsmatters/opsmatters-core.svg)](http://javadoc.io/doc/com.opsmatters/opsmatters-core)
 
 View the project on [GitHub](https://github.com/opsmatters/opsmatters-core)  
-Documentation: [README](https://github.com/opsmatters/opsmatters-core/blob/master/README.md)  
 Download source code as [.zip file](https://github.com/opsmatters/opsmatters-core/zipball/master) [.tar.gz file](https://github.com/opsmatters/opsmatters-core/tarball/master)
+Documentation: [README](https://github.com/opsmatters/opsmatters-core/blob/master/README.md)  
 
 # License
 
