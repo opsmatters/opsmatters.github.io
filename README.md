@@ -11,6 +11,7 @@ The library implements over 110 operations across all of the available 35 New Re
 It is primarily used by applications to automate the configuration of New Relic Monitoring, Alerting and Dashboards, but can also be used for extracting incident and metric data, executing Insights queries, and uploading plugin metrics.
 
 View the project on GitHub [here](https://github.com/opsmatters/newrelic-api)
+Download as [.zip file](https://github.com/opsmatters/newrelic-api/zipball/master) [.tar.gz file](https://github.com/opsmatters/newrelic-api/tarball/master)
 
 **Project status and latest version:**  
 [![Build Status](https://travis-ci.org/opsmatters/newrelic-api.svg?branch=master)](https://travis-ci.org/opsmatters/newrelic-api)
