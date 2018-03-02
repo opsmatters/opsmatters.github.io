@@ -8,7 +8,10 @@ title: opsmatters
 description: Open-source operational monitoring tools
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Gerald Curley
+author: opsdemon
+
+# URL pf the owner on github
+author_url: https://github.com/opsdemon
 
 # Your email if you want it to be linked on the contact page
 author_email: gerald@opsmatters.com
