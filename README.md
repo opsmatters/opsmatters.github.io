@@ -10,7 +10,7 @@ A Java client library for the New Relic Monitoring and Alerting REST APIs built 
 The library implements over 110 operations across all of the available 35 New Relic services.
 It is primarily used by applications to automate the configuration of New Relic Monitoring, Alerting and Dashboards, but can also be used for extracting incident and metric data, executing Insights queries, and uploading plugin metrics.
 
-**Project status and latest version:**  
+Project status and latest version:  
 [![Build Status](https://travis-ci.org/opsmatters/newrelic-api.svg?branch=master)](https://travis-ci.org/opsmatters/newrelic-api)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-api/badge.svg?style=blue)](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-api)
 [![Javadocs](http://javadoc.io/badge/com.opsmatters/newrelic-api.svg)](http://javadoc.io/doc/com.opsmatters/newrelic-api)  
@@ -24,34 +24,37 @@ New Relic Alerts can be configured from alert channels, policies and conditions 
 New Relic Insights dashboards can be created from definition files in YAML format.
 It provides a set of tools to accelerate or automate the deployment of New Relic Alerts and Insights dashboards.
 
-View the project on GitHub [here](https://github.com/opsmatters/newrelic-batch)
-
-**Project status and latest version:**  
+Project status and latest version:  
 [![Build Status](https://travis-ci.org/opsmatters/newrelic-batch.svg?branch=master)](https://travis-ci.org/opsmatters/newrelic-batch)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-batch/badge.svg?style=blue)](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-batch)
 [![Javadocs](http://javadoc.io/badge/com.opsmatters/newrelic-batch.svg)](http://javadoc.io/doc/com.opsmatters/newrelic-batch)
+
+View the project on GitHub [here](https://github.com/opsmatters/newrelic-batch)
+Download source code [.zip file](https://github.com/opsmatters/newrelic-batch/zipball/master) [.tar.gz file](https://github.com/opsmatters/newrelic-batch/tarball/master)
 
 ## New Relic Command
 Java library that allows New Relic Monitoring and Alerting configuration operations to be executed from a command line.
 The library includes over 90 operations covering Alerts, Applications, Key Transactions, Deployments, Servers, Plugins, Monitors and Labels. 
 It provides a set of tools to simplify or automate the configuration of New Relic Monitoring and Alerting.
 
-View the project on GitHub [here](https://github.com/opsmatters/newrelic-command)
-
-**Project status and latest version:**  
+Project status and latest version:  
 [![Build Status](https://travis-ci.org/opsmatters/newrelic-command.svg?branch=master)](https://travis-ci.org/opsmatters/newrelic-command)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-command/badge.svg?style=blue)](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/newrelic-command)
 [![Javadocs](http://javadoc.io/badge/com.opsmatters/newrelic-command.svg)](http://javadoc.io/doc/com.opsmatters/newrelic-command)
 
+View the project on GitHub [here](https://github.com/opsmatters/newrelic-command)
+Download source code [.zip file](https://github.com/opsmatters/newrelic-command/zipball/master) [.tar.gz file](https://github.com/opsmatters/newrelic-command/tarball/master)
+
 ## OpsMatters Core
 Java library for the opsmatters suite including a data cache for New Relic Monitoring and Alerting, models, and reporting utilities.
 
-View the project on GitHub [here](https://github.com/opsmatters/opsmatters-core)
-
-**Project status and latest version:**  
+Project status and latest version:  
 [![Build Status](https://travis-ci.org/opsmatters/opsmatters-core.svg?branch=master)](https://travis-ci.org/opsmatters/opsmatters-core)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/opsmatters-core/badge.svg?style=blue)](https://maven-badges.herokuapp.com/maven-central/com.opsmatters/opsmatters-core)
 [![Javadocs](http://javadoc.io/badge/com.opsmatters/opsmatters-core.svg)](http://javadoc.io/doc/com.opsmatters/opsmatters-core)
+
+View the project on GitHub [here](https://github.com/opsmatters/opsmatters-core)
+Download source code [.zip file](https://github.com/opsmatters/opsmatters-core/zipball/master) [.tar.gz file](https://github.com/opsmatters/opsmatters-core/tarball/master)
 
 # License
 
